@@ -1,0 +1,16 @@
+.footer{
+    display:flex;
+    flex-direction: row;
+    align-content: flex-end;
+	position: absolute;
+	bottom: 10px;
+	font-size: 18px;
+	font-family: Nunito Sans;
+    font-style: normal;
+    
+}
+.footer img{
+	margin: 4px;
+	height: 15px;
+	width: 15px;
+}
