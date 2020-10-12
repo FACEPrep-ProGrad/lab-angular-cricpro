@@ -1,0 +1,32 @@
+table {
+  margin-top: 20px;
+  margin-left: 100px;
+  font-size: 1.5em;
+  text-align: left;
+  border-collapse: collapse;
+  width: 70%;
+  background-color: white;
+}
+td {
+  padding: 0.5rem;
+}
+.first {
+  background-color: red;
+  text-align: left;
+}
+.first th {
+  color: white;
+  padding: 10px;
+  margin: 40px 0;
+}
+tr {
+  line-height: 40px;
+  border-bottom: 2px solid lightgray;
+}
+.second td:nth-child(2) {
+  color: gray;
+}
+a {
+  color: #0599fc;
+  text-decoration: none;
+}

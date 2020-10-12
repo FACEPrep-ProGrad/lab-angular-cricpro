@@ -1,0 +1,11 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  align-content: flex-end;
+  position: relative;
+  top: 20px;
+  margin-left: 100px;
+  font-size: 20px;
+  font-family: "Nunito Sans";
+  font-style: normal;
+}
